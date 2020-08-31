@@ -1,5 +1,5 @@
 # HermesCheck
-An tool to check whether Hermes products are in stock.
+A tool to check whether Hermes products are in stock.
 ## Usage
 * check_proxy_availability.py: Check the proxies in proxy_list whether works and add them to proxy_list_available.csv
 * main.py: Replace product sku, from_email, password and to_email in main and run main to start the program checking whether the product is in stock. Setting up a longer sleeping time may reduce probability of being blocked.
